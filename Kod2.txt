@@ -1,1 +1,0 @@
-Print('Yeni deninecek kodlar';)
